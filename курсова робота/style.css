@@ -78,5 +78,12 @@ h2{
 h4{
 	color: white;
 }
+.main{
+display: flex;
 
+}
+.left, .right{
+width: 50%;
+height: 800px;
+}
 
